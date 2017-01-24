@@ -1,0 +1,34 @@
+#nextpay-donations-btn {
+    background: #09C66E;
+    border: 1px solid #06894C;
+    border-radius: 4px;
+    color: white;
+    clear: both;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    height: 50px;
+    margin-top: 10px;
+    padding: 0 20px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
+    width: 100%;
+    background: #F8A11C;
+    border-color: #BC7A16;
+    box-shadow: inset 0 1px 2px #FC0, inset 0 -1px 2px #FC0;
+    font-size: 14px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+#nextpay-donations-text{
+    margin-bottom: 10px;
+}
+
+#nextpay-donations-container{
+    float: right;
+    padding-right: 20px;
+    text-align: center;
+    width: 60%;
+}

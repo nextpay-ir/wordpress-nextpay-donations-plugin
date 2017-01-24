@@ -1,0 +1,15 @@
+#nextpay-donations-tabs {
+	margin: 0;
+}
+
+#nextpay-donations-tabs li {
+	cursor: pointer;
+}
+
+#nextpay-donations-tabs-content > div {
+	display: none;
+}
+
+#nextpay-donations-tabs-content > #nextpay-donations-tab-content-1 {
+	display: block;
+}
